@@ -125,3 +125,12 @@ p {
   text-align: center;
 }
 
+
+@media (max-width: 576px) {
+  .button-link {
+  display: block;
+  margin: auto;
+   text-align: center;
+  }
+  
+}
